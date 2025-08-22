@@ -51,7 +51,10 @@ python magic8.py
 * Ask again later.
 * Don’t count on it.
 * Outlook not so good.
-
+* Better not tell you now.
+* My reply is no.
+* Signs point to yes
+  
 
 ## 📚 Technologies Used
 
